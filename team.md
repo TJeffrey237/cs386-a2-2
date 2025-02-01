@@ -4,5 +4,8 @@ Hello, my name is Tyler. I am majoring in Immersive Media and Games and I am cur
 # Jackson #
 
 # Richelle #
+- Computer Science major
+- Watches Doctor Who
+- 3rd year at NAU
 
 # Chandler #
