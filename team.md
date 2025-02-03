@@ -14,4 +14,4 @@ Hello, my name is Tyler. I am majoring in Immersive Media and Games and I am cur
 # Chandler #
 - Has 3 dogs
 - 5 siblings
-- Loves rollercoasters
+- Likes rollercoasters
