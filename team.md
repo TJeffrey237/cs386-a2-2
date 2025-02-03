@@ -12,3 +12,6 @@ Hello, my name is Tyler. I am majoring in Immersive Media and Games and I am cur
 - 3rd year at NAU
 
 # Chandler #
+- Has 3 dogs
+- 5 siblings
+- Loves rollercoasters
